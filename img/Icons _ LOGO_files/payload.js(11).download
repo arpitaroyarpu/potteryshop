@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/editor/history", (function(a){return {data:[{},{asyncContentReady:true,page:{meta:{title:a,description:""},history_section:{title:"Your recent history",subtitle:"Select a logo to continue editing"},title:a}}],fetch:{},mutations:[]}}("History")));
